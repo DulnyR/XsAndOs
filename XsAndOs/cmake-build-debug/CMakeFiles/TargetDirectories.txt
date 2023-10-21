@@ -1,0 +1,3 @@
+C:/Users/Radek/Documents/College/2nd Year/Programming/XsAndOs/cmake-build-debug/CMakeFiles/XsAndOs.dir
+C:/Users/Radek/Documents/College/2nd Year/Programming/XsAndOs/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/Radek/Documents/College/2nd Year/Programming/XsAndOs/cmake-build-debug/CMakeFiles/rebuild_cache.dir
